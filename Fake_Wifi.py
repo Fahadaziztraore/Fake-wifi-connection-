@@ -3,9 +3,11 @@ from tkinter import *
 
 win = Tk()
 win['bg']="#7D7D7D"
+
+#the images screen are ("720x1600")
+
 first = PhotoImage(file="/storage/emulated/0/azert/Fpage.png")
 second= PhotoImage(file="/storage/emulated/0/azert/Spage.png")
-
 done= PhotoImage(file="/storage/emulated/0/azert/done.png")
 
 
